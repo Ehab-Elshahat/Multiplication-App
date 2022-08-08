@@ -1,0 +1,1 @@
+if the enter answer is correct the score will be increased also is it  not correct the score will be decreased
